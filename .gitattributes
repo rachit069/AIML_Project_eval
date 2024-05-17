@@ -3,3 +3,4 @@
 /Users/rachit/Downloads/AIML\\[[:space:]]Project\\[[:space:]]Evaluation\\[[:space:]]I/trained_model.h5[[:space:]] filter=lfs diff=lfs merge=lfs -text
 /Users/rachit/Desktop/AIML[[:space:]]Project[[:space:]]Evaluation[[:space:]]I/trained_model.h5 filter=lfs diff=lfs merge=lfs -text
 /Users/rachit/Desktop/AIML[[:space:]]Project[[:space:]]Evaluation[[:space:]]I/python filter=lfs diff=lfs merge=lfs -text
+*.h5 filter=lfs diff=lfs merge=lfs -text
